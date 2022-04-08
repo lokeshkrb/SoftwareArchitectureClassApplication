@@ -1,0 +1,2 @@
+#define APPSPHEREOPS_API __declspec(dllexport)
+#define APPSPHEREOPS_API __declspec(dllimport)
